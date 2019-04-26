@@ -1,0 +1,22 @@
+{
+  "name": "nock-sample",
+  "version": "1.0.0",
+  "description": "Sample with mocks",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --timeout 5000"
+  },
+  "author": "Enzo Cano",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.7",
+    "@types/request-promise-native": "^1.0.16",
+    "mocha": "^6.1.4",
+    "nock": "^10.0.6"
+  }
+}
