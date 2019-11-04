@@ -10,6 +10,9 @@
   "author": "Enzo Cano",
   "license": "MIT",
   "dependencies": {
+    "botbuilder": "^4.6.0",
+    "botbuilder-azure": "^4.6.0",
+    "botbuilder-dialogs": "^4.6.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7"
   },
