@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/node": "^11.13.7",
     "@types/request-promise-native": "^1.0.16",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nock": "^10.0.6"
   }
 }
